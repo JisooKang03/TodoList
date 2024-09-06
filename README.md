@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 to start the project, download the zip file, and install react.js and to run the project type: npm run dev and run the localhost of http://localhost:5173/ 
 - Todo List Final Project: 
-![image](https://github.com/user-attachments/assets/96043c5d-67dd-4072-a9fc-461f2cc080eb)
+![image](https://github.com/user-attachments/assets/29af9500-f677-48f6-a1c3-564486fe62a9)
+
 Task lists - Todo, Doing, Done
 ![image](https://github.com/user-attachments/assets/449b2a75-e5ca-4e65-ae10-595e5cd6dbec)
 Button colours: 
